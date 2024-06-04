@@ -1,6 +1,10 @@
 # ARMRS-OPEN-PROJECT
 3D MAPPING USING MULTI-ROBOT SYSTEM
 
+### Group Member
+Aman Vyas
+Azeez Jimoh 
+Afrooz Naseri
 
 ### Setup Instructions
 
