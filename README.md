@@ -2,11 +2,11 @@
 3D MAPPING USING MULTI-ROBOT SYSTEM
 
 ### Group Members:-
-    - Aman Vyas
+-Aman Vyas
 
-    - Azeez Jimoh 
+-Azeez Jimoh 
 
-    - Afrooz Naseri
+-Afrooz Naseri
 
 ### Setup Instructions
 
