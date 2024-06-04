@@ -10,6 +10,7 @@ Follow these steps to clone the repository and set up TurtleBot3.
 Open a terminal.
 Navigate to the directory where you want to clone the repository.
 Run the following command to clone the repository:
+
     git clone https://github.com/Aman2404/ARMRS-OPEN-PROJECT.git
 
 ### Step 2: Install TurtleBot3
@@ -19,6 +20,7 @@ Navigate to the src directory:
 cd src
 
 Clone the below mentioned TurtleBot3 repository inside the src directory:
+
     git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
     git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
     git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
@@ -27,9 +29,11 @@ Clone the below mentioned TurtleBot3 repository inside the src directory:
 ### Step 3: Copy World and Model Files
 
 Copy world files from my_package to turtlebot_simulations/turtlebot3_gazebo/world:
+
     cp -r path/to/my_package/worlds/* path/to/turtlebot_simulations/turtlebot3_gazebo/worlds/
 
 Copy model files from my_package to turtlebot_simulations/turtlebot3_gazebo/models:
+
     cp -r path/to/my_package/models/* path/to/turtlebot_simulations/turtlebot3_gazebo/models/
 
 Replace path/to/my_package and path/to/turtlebot_simulations with the actual paths to your packages.
